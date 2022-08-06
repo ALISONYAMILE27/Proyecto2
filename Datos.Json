@@ -1,0 +1,38 @@
+
+[ 
+    {
+        "nombre":"EL CHARRO NEGRO",
+        "imagen":"imagenes/El-Charro-Negro.jpg",
+        "descripcion":"Este cuento es muy original en mexico ya que se ha contado durante muchos siglos y se cree que puede ser real en algunos paise de mexico",
+        "contenido corto":"cuenta la historia de un espectro que alguna vez fue hombre y que, por su interminable ambición, fue condenado a sufrir los tormentos del infierno y a ser el cobrador de quienes, como él, tienen deudas pendientes con el diablo.",
+    },
+
+    {
+        "nombre":"LAS GEMELAS",
+        "imagen":"imagenes/leyenda-gemelas.jpg",
+        "descripcion": "Esta leyenda es una de muchas que no se relatan tan seguido ya que para algunos no estan importante pero esta leyenda se basa en echos reales ",
+        "contenido corto ": "la historia de una mujer que vio morir a sus hijos, mientras que el elemento de fantasía es la aparición de un fantasma que grita de dolor por sus hijos muertos.",
+    },
+
+    {
+        "nombre":"LA NAHUALA",
+        "imagen":"imagenes/la-leyenda-de-nahuala.jpg",
+        "descripcion": "El cuento de la nahuala es uno de los mas conocidos asì como el del charro negro los cuales son muy populares en Mexico",
+        "contenido corto": "En una vieja Casona abandonada se encuentra poseída por el espíritu de una malvada bruja conocida como la Nahuala, quien está esperando el alma de un niño inocente para resucitar y obtener el poder absoluto.",
+    }.
+
+    {
+        "nombre":"EL LOCO BAJO LA CAMA",
+        "imagen":"imagenes/descarga.jpg",
+        "descripcion": "Este cuento es muy interesante ya que fue escrito con las opiniones de algunos niñops los cual dicen que es real y eso suele pasar en todas las noches",
+        "contenido corto": "De pequeña, Sara tenía miedo a la oscuridad, hasta que adoptó a un perro que le hacía compañía. Durante años, Sara dormía tranquila porque sabía que bajo la cama estaba su perro, y si tenía miedo solo tenía que extender la mano: entonces, el perro empezaba a lamerla hasta que se quedaba dormida."
+         
+    },
+
+    {
+        "nombre":"LA BRUJA CHUPA SANGRE",
+        "imagen":"imagenes/LA BRUJA CHUPA SANGRE.jpg",
+        "descripcion": "Este cuento fue basado en opiniones de personas que dicen aver visto este tipo de escenas las cuales se han investigado a profundidad y son reales ",
+        "contenido corto":"En un pueblo muy alejado de la sociedad habia una familia la cual se acaba de mudar al pueblo. El pueblo no se veìa como uno normla si no que era tenebroso y muy solo, la pareja no le tomo importancia,1 año despues tuvieron a un bebe que por las noches no paraba dde llorar cuando se pusieron a investigar el por que  decidieron irse de ese lugar.Años despues se enteraron que en eseueblo era el  lugar preferudo de las brujas  ",
+    }
+]
